@@ -1,0 +1,34 @@
+### **Task: Build a Simple Library Management System**
+
+
+#### **Objective**
+
+
+Create a Python program that models a library system with the following features:
+
+
+1. **Books** can be added, borrowed, or returned.
+
+2. Different types of books (e.g., fiction, non-fiction) with additional attributes.
+
+3. Track the borrowing status of each book.
+
+
+---
+
+
+1. **Classes and Objects**
+
+   Model books and the library as classes with attributes and methods.
+
+2. **Encapsulation**
+
+   Use private attributes to store the book's borrowing status and provide getter/setter methods.
+
+3. **Inheritance**
+
+   Create subclasses for different types of books (e.g., Fiction and NonFiction) that extend the Book class.
+
+4. **Polymorphism**
+
+   Implement methods like get_info() that behave differently based on the book type.
